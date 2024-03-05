@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "fddab087-723d-3f2f-9dd1-d54d00726765",
+    "name": "nacretion",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
